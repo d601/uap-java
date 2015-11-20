@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ua_parser;
+package org.no.org.uaparser;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
@@ -23,6 +23,7 @@ import java.util.Map;
 
 import org.junit.Test;
 import org.junit.Before;
+import org.no.org.uaparser.*;
 import org.yaml.snakeyaml.Yaml;
 
 import static org.hamcrest.Matchers.*;
@@ -34,7 +35,7 @@ import static org.junit.Assert.*;
  * @author Steve Jiang (@sjiang) <gh at iamsteve com>
  */
 public class ParserTest {
-  final String TEST_RESOURCE_PATH = "/ua_parser/";
+  final String TEST_RESOURCE_PATH = "/org/no/org/uaparser/ua_parser/";
   Yaml yaml = new Yaml();
   Parser parser;
 

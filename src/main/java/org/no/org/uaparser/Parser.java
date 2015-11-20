@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ua_parser;
+package org.no.org.uaparser;
 
 import java.io.IOException;
 import java.io.InputStream;

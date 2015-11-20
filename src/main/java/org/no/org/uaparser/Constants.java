@@ -1,4 +1,4 @@
-package ua_parser;
+package org.no.org.uaparser;
 
 /**
  * @author sojern

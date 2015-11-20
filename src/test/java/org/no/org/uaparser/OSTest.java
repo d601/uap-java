@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ua_parser;
+package org.no.org.uaparser;
 
 /**
  * @author Steve Jiang (@sjiang) <gh at iamsteve com>

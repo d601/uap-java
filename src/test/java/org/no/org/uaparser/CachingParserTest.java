@@ -1,4 +1,4 @@
-package ua_parser;
+package org.no.org.uaparser;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
