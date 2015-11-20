@@ -35,7 +35,7 @@ import static org.junit.Assert.*;
  * @author Steve Jiang (@sjiang) <gh at iamsteve com>
  */
 public class ParserTest {
-  final String TEST_RESOURCE_PATH = "/org/no/org/uaparser/ua_parser/";
+  final String TEST_RESOURCE_PATH = "/org/no/org/uaparser/";
   Yaml yaml = new Yaml();
   Parser parser;
 
